@@ -1,0 +1,30 @@
+[
+    {
+    "id": 1,
+    "producto": "leche",
+    "descripcion": "leche de muy buena calidad.",
+    "imagen": "leche.jpg",
+    "precio": 2000
+    },
+    {
+    "id": 2,
+    "producto": "yogurt",
+    "descripcion": "yogurt con variedad de sabores.",
+    "imagen": "yogurt.jpg",
+    "precio": 2500
+    },
+    {
+    "id": 3,
+    "producto": "queso",
+    "descripcion": "queso de muy buen sabor.",
+    "imagen": "queso.jpg",
+    "precio": 5000
+    },
+    {
+    "id": 4,
+    "producto": "kumis",
+    "descripcion": "rico kumis.",
+    "imagen": "kumis.jpg",
+    "precio": 1000
+    }
+   ]
